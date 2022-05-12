@@ -1,0 +1,70 @@
+#main {
+    background-image: url(../img/checkout/backgound_checkout_0000_Layer-1.png);
+    background-size: 100% 100%;
+}
+#body_content {
+    padding: 130px 150px 30px 180px;
+}
+#body_content .page_title {
+    color: #e53328;
+    font-size: 60px;
+    font-weight: bold;
+}
+#main_checkout {
+    margin: 30px auto;
+    height: auto;
+    display: flex;
+}
+#left_info_checkout {
+    width: 284px;
+    background-color: #fadecb;
+}
+.round_circle_checkout {
+    background-image: url(../img/checkout/bg_tiltle_checkout.png);
+    background-repeat: repeat-x;
+    padding: 3px;
+    display: flex;
+}
+.round_circle_checkout .circle {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: #FFFFFF;
+    color: #f97b2c;
+    font-size: 21px;
+    font-weight: bold;
+    text-align: center;
+}
+.round_circle_checkout .text_title_checkout {
+    margin-top: 2px;
+    margin-left: 40px;
+    color: white;
+    font-weight: bold;
+}
+#login_form_checkout {
+    text-align: center;
+    border-bottom: 2px solid;
+    
+}
+#login_form_checkout #user_account_checkout {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: #984D17;
+    font-size: 12px;
+    display: block;
+}
+.btn_login {
+    background-color: #eb6c1d;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+    width: 65px;
+    height: 25px;
+}
+
+
+
+
